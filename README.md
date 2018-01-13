@@ -10,4 +10,6 @@ like express and underscore so other people or heroku can install them by runnin
 - [ ] Make a .gitignore file and add node_modules to it so the node_modules don't
 get committed to version control
 
-- [ ] Deploy your app to heroku
+- [ ] Make you app even more awesome
+
+- [ ] Try deploying a node app (start with preconfigured example app) [Here](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction)
